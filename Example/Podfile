@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'LCSymbolFont', :exclusive => true do
+  pod "LCSymbolFont", :path => "../"
+
+  
+end
