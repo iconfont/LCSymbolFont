@@ -1,0 +1,18 @@
+PODS:
+  - LCSymbolFont (0.1.0):
+    - LCSymbolFont/Core (= 0.1.0)
+    - LCSymbolFont/UI (= 0.1.0)
+  - LCSymbolFont/Core (0.1.0)
+  - LCSymbolFont/UI (0.1.0)
+
+DEPENDENCIES:
+  - LCSymbolFont (from `../`)
+
+EXTERNAL SOURCES:
+  LCSymbolFont:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LCSymbolFont: f12207ea172ef8aeb48568bc3a9835ed47792212
+
+COCOAPODS: 0.36.0
