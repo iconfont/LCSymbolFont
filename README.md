@@ -1,9 +1,16 @@
+## Linecons for iOS
+
+[http://designmodo.com/linecons-free/](http://designmodo.com/linecons-free/)  
+[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+
+
 # LCSymbolFont
 
 [![CI Status](http://img.shields.io/travis/ryota hayashi/LCSymbolFont.svg?style=flat)](https://travis-ci.org/ryota hayashi/LCSymbolFont)
 [![Version](https://img.shields.io/cocoapods/v/LCSymbolFont.svg?style=flat)](http://cocoadocs.org/docsets/LCSymbolFont)
 [![License](https://img.shields.io/cocoapods/l/LCSymbolFont.svg?style=flat)](http://cocoadocs.org/docsets/LCSymbolFont)
 [![Platform](https://img.shields.io/cocoapods/p/LCSymbolFont.svg?style=flat)](http://cocoadocs.org/docsets/LCSymbolFont)
+
 
 ## Usage
 
